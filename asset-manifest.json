@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dz-13.react%20/static/css/main.dfb7bd47.css",
+    "main.js": "/dz-13.react%20/static/js/main.ff5f0ab5.js",
+    "static/media/meals.jpg": "/dz-13.react%20/static/media/meals.46a522b40fd53b469b50.jpg",
+    "index.html": "/dz-13.react%20/index.html",
+    "main.dfb7bd47.css.map": "/dz-13.react%20/static/css/main.dfb7bd47.css.map",
+    "main.ff5f0ab5.js.map": "/dz-13.react%20/static/js/main.ff5f0ab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb7bd47.css",
+    "static/js/main.ff5f0ab5.js"
+  ]
+}
